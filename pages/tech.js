@@ -62,7 +62,7 @@ export default function Tech() {
             text: '#ff00bf',
         },
         {
-            title: 'Osu!',
+            title: 'Dart',
             id: 6,
             main: '/osu-logo.png',
             desc: 'OG F2P anime rhythm game coming way back from 2007, one of my favorite ',
